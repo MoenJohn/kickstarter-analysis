@@ -1,10 +1,13 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+In this written report and analysis will attempt to describe Kickstarter campaign outcomes both based on their launch dates and on their funding goals. Included is the dataset, the relevant and analyzed data from that dataset (both in the Excel doc) along with some charts generated from them and my analysis in this README. 
 
 ### Purpose
+The purpose of this analysis is to visualize Kickstarter campaign outcomes in relation to two factors: launch dates and funding goals. 
 
 ## Analysis and Challenges
+The analysis itself was fairly straight forward with little difficulties, TBC
 
 ### Analysis of Outcomes Based on Launch Date
 
